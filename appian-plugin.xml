@@ -1,0 +1,10 @@
+<appian-plugin key="com.appiancorp.plugin.enabledeploymentapi" name="importenabledeploymentapiapp">
+  <plugin-info>
+    <description>Enable Deployment API App Import Activator</description>
+    <vendor name="Appian Corporation" url="http://www.appian.com" />
+    <version>1.0.0</version>
+    <bundle-instructions>
+      <Bundle-Activator>com.appiancorp.plugin.enabledeploymentapi.EnableDeploymentApiAppImportActivator</Bundle-Activator>
+    </bundle-instructions>
+  </plugin-info>
+</appian-plugin>
