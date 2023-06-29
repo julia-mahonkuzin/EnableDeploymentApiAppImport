@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EnableDeploymentApiAppImport:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/EnableDeploymentApiAppImport_jar</output-path>
+    <root id="archive" name="EnableDeploymentApiAppImport.jar">
+      <element id="module-output" name="EnableDeploymentApiAppImport" />
+    </root>
+  </artifact>
+</component>
